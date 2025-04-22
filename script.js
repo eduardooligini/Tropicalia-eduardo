@@ -25,6 +25,6 @@ document.addEventListener('DOMContentLoaded', function () {
    });
 
      alternaContraste.addEventListener('click', function(){
-     document.body.classList.toggle('alto-contrasrte');
+     document.body.classList.toggle('alto-contraste');
    })
 });
